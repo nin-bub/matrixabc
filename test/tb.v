@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_example sumo (
+  tt_um_vga_glyph_mode sumo (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
